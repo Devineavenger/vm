@@ -6,7 +6,7 @@ true
 
 # Dirs
 SCRIPTS=/var/scripts
-NCPATH=/var/www/nextcloud
+NCPATH=/var/www/html
 HTML=/var/www
 POOLNAME=ncdata
 NCDATA=/mnt/"$POOLNAME"
